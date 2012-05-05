@@ -4,7 +4,7 @@
 
 Lights out is a simple puzzle game. You are given a 5x5 grid of tiles; some
 are lit up, some aren't. Clicking a tile will toggle that tile and the four
-adjacent to it. Your goal is to turn off all of the lights.
+immediately adjacent to it. Your goal is to turn off all of the lights.
 
 ## Instructions
 
