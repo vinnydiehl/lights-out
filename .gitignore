@@ -1,0 +1,6 @@
+# MSVS build directories
+bin/
+obj/
+
+# Temporary files
+*~
